@@ -17,4 +17,4 @@
  
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/atila-brz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/atila-brz/atila-brz/blob/output/github-contribution-grid-snake.svg)
