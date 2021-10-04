@@ -1,7 +1,7 @@
 ## Olá! Eu sou Atila Bezerra, estudande de Desenvolvimento de Sistemas.
 <div align="center">
   <a href="https://github.com/atila-brz">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=atila-brz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=atila-brz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila-brz&layout=compact&langs_count=7&theme=dark"/>
     </div>
   
