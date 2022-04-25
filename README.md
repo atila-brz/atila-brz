@@ -2,6 +2,8 @@
   <div align="center">
     <a href="https://github.com/atila-brz">
     <img height="180em" width="365em" src="https://github-readme-stats.vercel.app/api?username=atila-brz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <a href="http://www.github.com/atila-brz"><img src="https://activity-graph.herokuapp.com/graph?username=atila-brz&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
    </div>
  
   <div align="center" style="display: inline_block"><br>
