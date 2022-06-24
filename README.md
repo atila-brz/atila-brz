@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">​❗​ Confira minhas redes de contatos​❗:</p>
+<p align="left">​❗​ Confira minhas redes de contatos:</p>
 
 ###
 
