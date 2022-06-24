@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍🎓​ Eu sou Atila Bezerra, estudante de desenvolvimento de sistemas e entusiasta no universo computacional 💻​. Atualmente, atuo, principalmente, no desenvolvimento de soluções para Computação Ubíqua e Edge Computing 💡 em projetos na instituição SENAI CIMATEC. 🏢​</p>
+<p align="left">👨‍🎓​ Eu sou Atila Bezerra, estudante de desenvolvimento de sistemas e entusiasta no universo computacional 💻​. Atuo, principalmente, no desenvolvimento de soluções para Computação Ubíqua e Edge Computing 💡 em projetos na instituição SENAI CIMATEC. 🏢​</p>
 
 ###
 
