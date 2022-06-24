@@ -35,7 +35,7 @@
 
 ###
 
-<h4 align="left">- Atuação em ambientes de clusters, utilizando Docker e Kubernetes.</h4>
+<h4 align="left">- Atuação em ambientes de clusters, utilizando Docker e Kubernetes;</h4>
 
 ###
 
