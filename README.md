@@ -1,18 +1,15 @@
-<h2 align="left">👋​ Seja bem vindo ao meu perfil no Github</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFD6D4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Atila+Bezerra;I'm+18+years+old;I'mfrom+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Atila Bezerra&username=atila-brz" height="150" alt="stats graph"  />
-</div>
+<p align="left">Eu sou Atila Bezerra, estudante de desenvolvimento de sistemas e entusiasta no universo computacional 💻​. Atuo, principalmente, no desenvolvimento de soluções para Computação Ubíqua e Edge Computing 💡 em projetos na instituição SENAI CIMATEC. 🏢​</p>
 
 ###
 
-<p align="left">👨‍🎓​ Eu sou Atila Bezerra, estudante de desenvolvimento de sistemas e entusiasta no universo computacional 💻​. Atuo, principalmente, no desenvolvimento de soluções para Computação Ubíqua e Edge Computing 💡 em projetos na instituição SENAI CIMATEC. 🏢​</p>
-
-###
-
-<p align="left">​❗​ Confira minhas redes de contatos:</p>
+<p align="left">Confira minhas redes de contatos​❗​ </p>
 
 ###
 
