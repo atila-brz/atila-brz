@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Eu sou Atila Bezerra, estudante de desenvolvimento de sistemas e entusiasta no universo computacional 💻​. Atuo, principalmente, no desenvolvimento de soluções para Computação Ubíqua e Edge Computing 💡 em projetos na instituição SENAI CIMATEC. 🏢​</p>
+<p align="left">Profissional backend C# .NET em formação, com experiência em pesquisa e desenvolvimento de microsserviços e aplicações em Python, tendo atuado, também, na área de infraestrutura com Kubernetes, sistemas distribuídos e manutenção de servidores. 🏢​</p>
 
 ###
 
